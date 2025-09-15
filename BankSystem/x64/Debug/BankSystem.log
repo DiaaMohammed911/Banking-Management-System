@@ -1,0 +1,52 @@
+﻿  BankSystem.cpp
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsString.h(43,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsString.h(214,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsString.h(235,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsString.h(295,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsString.h(300,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsString.h(370,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsString.h(426,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsBankClient.h(369,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsUtil.h(65,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsBankClient.h(312,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\USER\source\repos\BankSystem\BankSystem\clsUser.h(309,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem.vcxproj -> C:\Users\USER\source\repos\BankSystem\x64\Debug\BankSystem.exe
