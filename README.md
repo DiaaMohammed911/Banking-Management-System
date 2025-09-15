@@ -7,9 +7,7 @@ A comprehensive C++ console-based banking system featuring client management, se
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -103,31 +101,6 @@ BankSystem.sln
 - **Deposit**: Add money to client account
 - **Withdraw**: Remove money from client account
 - **Total Balances**: View system-wide balance summary
-
-## 📁 Project Structure
-
-```
-BankSystem/
-├── 📄 BankSystem.cpp          # Main entry point
-├── 📁 Core Classes/
-│   ├── 🏷️ clsPerson.h          # Base person class
-│   ├── 🏷️ clsBankClient.h      # Client management
-│   └── 🏷️ clsUser.h            # User management
-├── 📁 Screen Classes/
-│   ├── 🏷️ clsScreen.h          # Base screen class
-│   ├── 🏷️ clsMainScreen.h      # Main menu
-│   ├── 🏷️ clsLoginScreen.h     # Authentication
-│   └── 🏷️ clsTransactionsScreen.h # Transaction menu
-├── 📁 Utility Classes/
-│   ├── 🏷️ clsInputValidate.h   # Input validation
-│   ├── 🏷️ clsString.h          # String utilities
-│   ├── 🏷️ clsDate.h            # Date operations
-│   └── 🏷️ clsUtil.h            # General utilities
-├── 📁 Data Files/
-│   ├── 📊 Clients.txt          # Client data storage
-│   └── 📊 Users.txt            # User data storage
-└── 📄 Global.h                # Global variables and declarations
-```
 
 ## 🤝 Contributing
 
