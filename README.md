@@ -52,11 +52,6 @@ A comprehensive C++ console-based banking system featuring client management, se
 - **Modularity**: Separate screen classes for different functionalities
 - **Separation of Concerns**: Business logic separated from presentation layer
 
-### Design Patterns
-- **Screen Pattern**: Each functionality has its dedicated screen class
-- **Data Access Layer**: Centralized file operations
-- **Input Validation Pattern**: Reusable validation utilities
-
 ## 🚀 Installation
 
 ### Prerequisites
